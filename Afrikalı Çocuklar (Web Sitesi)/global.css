@@ -1,0 +1,58 @@
+.text-center
+{
+	text-align: center;
+}
+.heading-xsmall
+{
+	font-size: 0.80rem;
+}
+.heading-small
+{
+	font-size: 1.30rem;
+}
+.heading-medium
+{
+	font-size: 1.50rem;
+}
+.heading-big
+{
+	font-size: 2.3rem;
+}
+.bg-light-color
+{
+	background-color: #089c74;
+}
+.bg-dark-color
+{
+	background-color: rgb(8,140,108);
+}
+.btn 
+{
+	padding: 1rem 1.5rem;
+	border-radius: 15px 0 15px 0;
+	letter-spacing: 0.5px;
+	background: rgb(215,170,105);
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	font-size: 0.70rem;
+}
+.btn i 
+{
+	border-right: 0.1rem solid white;
+	padding-right: 0.4rem;
+}
+::-webkit-scrollbar
+{
+	width: .60rem;
+	border-radius: .5rem;
+}
+::-webkit-scrollbar-thumb
+{
+	background-color: rgb(8,140,108);
+	border-radius: .5rem;
+}
+::-webkit-scrollbar-thumb:hover
+{
+	background-color: rgb(215,170,105);
+}

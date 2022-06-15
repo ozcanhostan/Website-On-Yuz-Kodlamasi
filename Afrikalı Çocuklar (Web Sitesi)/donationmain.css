@@ -1,0 +1,206 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Roboto", sans-serif;
+}
+a 
+{
+	text-decoration: none;
+	color: #fff;
+}
+.container
+{
+	padding-top: 0.70rem;
+	border-radius: 0 0 15px 15px;
+	max-width: 60rem;
+	height: 10vh;
+	z-index: 1000;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logo
+{
+	border-right: 0.1rem solid #089c74;
+	padding-right: 1rem;
+}
+#navbar
+{
+	color: #fff;
+	display: flex;
+	align-items: center;
+	padding: 0 1rem;
+
+}
+#navbar ul
+{
+	list-style: none;
+	display: flex;
+}
+#navbar ul li a
+{
+	padding: 0.50rem;
+	padding-left: 1rem;
+}
+#navbar ul li a:hover
+{
+	color: #cbcbcb;
+}
+.container .btn1
+{
+	margin-left: auto;
+}
+.btn1 a:hover
+{
+	background-color: #CE9546;
+}
+.container .icons 
+{
+	cursor: pointer;
+	padding-left: 3rem;
+	opacity: 0.5;
+}
+.fa-globe
+{
+	font-size: 0.7rem;
+	padding-left: 0.3rem;
+}
+.home
+{
+	height: 60vh;
+
+}
+.home .contet
+{
+	margin-left: 17rem;
+	padding-top: 3rem;
+	display: flex;
+	align-items: center;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid rgb(8,140,108);
+	max-width: 50rem;
+
+}
+.home .icon 
+{
+	font-size: 2.2rem;
+	color:rgb(215,170,105);
+	background: rgb(8,140,108);
+	border-radius: 0 15px 0 15px;
+	padding: 0.4rem 0.6rem;
+	margin-right: 1.3rem;
+}
+.banner
+{
+	margin-left: 17rem;
+	padding-top: 5rem;
+	display: flex;
+	align-items: center;
+	padding-bottom: 1rem;
+	max-width: 50rem;
+}
+.home  img
+{
+	display: inline;
+	border-radius: 15px 15px 0 0;
+	width: 32rem;
+}
+.donation
+{
+	margin-left: 35rem;
+	margin-top: 5rem;
+	z-index: 1000;
+	position: fixed;
+	box-shadow: 2px 2px 2px #cbcbcb;
+}
+.donation .boxs
+{
+	display: flex;
+	padding: 1rem;
+	width: 16rem;
+	height: 17rem;	
+	flex-direction: column;
+	background: #fff;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.donation .head 
+{
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #cbcbcb;
+	padding-bottom: 0.5rem;
+}
+.donation .head a 
+{
+	font-weight: 700;
+	font-size: 1.2rem;
+	color: rgb(215,170,105);
+}
+.donation  .icon1 i 
+{
+	font-size: 2rem;
+	margin-right: 10rem;
+	color: rgb(8,140,108);
+}
+.donation input
+{
+	border: none;
+	width: 6rem;
+	color: #808080;
+}
+.donation input:focus
+{
+	outline: none;
+}
+.donation .box2
+{
+	padding: 1rem;
+	justify-content: center;
+	align-items: center;
+}
+.donation .box-btn
+{
+	padding: 0.2rem;
+	border-radius: 5px;
+	background: rgb(215,170,105);
+	border: none;
+	color: #fff;
+	cursor: pointer;
+}
+.donation .box2  i 
+{
+	font-size: 1.4rem;
+	color: rgb(215,170,105);
+	padding-right: 0.7rem;
+}
+.donation .box3
+{
+	padding: 1rem;
+
+	justify-content: center;
+	align-items: center;
+}
+
+.donation .box3  i 
+{
+	font-size: 1.4rem;
+	padding-right: 0.5rem;
+	color: rgb(215,170,105);
+	padding-right: 0.7rem;
+}
+.donation .box4 .iconify
+{
+	color: rgb(215,170,105);
+}
+.donation .box4 
+{
+	padding: 1rem;
+	justify-content: center;
+	align-items: center;
+}
+.donation .box4 #metin2
+{
+	padding-left: 0.7rem;
+}

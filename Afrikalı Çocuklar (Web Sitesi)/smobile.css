@@ -1,0 +1,35 @@
+
+.donation .boxs
+{
+	flex-direction: column;
+	text-align: center;
+	justify-content: center;
+	width: 100%;
+	margin-top: 0.5rem;
+}
+section .content .img 
+{
+	max-width: 8%;
+	margin-left: 9rem;
+	bottom: 15rem;
+	margin-right: 0.5rem;
+}
+section .content
+{
+	margin-left: 2rem;
+}
+#navbar ul
+{
+	font-size: 0.6rem;
+}
+.donation .btn1
+{
+	width: 100%;
+	align-content: center;
+	justify-content: center;
+	margin-left: 0;
+}
+.container .icons 
+{
+	padding-left: 0.5rem;
+}

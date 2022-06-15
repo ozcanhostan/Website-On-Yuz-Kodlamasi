@@ -1,0 +1,14 @@
+section .content .img 
+{
+	margin-top: 15%;
+	margin-left: 17rem;
+	min-width: 45%;
+}
+.container .btn1
+{ 
+	display: none;
+}
+.container .icons 
+{
+	margin-left: auto;
+}

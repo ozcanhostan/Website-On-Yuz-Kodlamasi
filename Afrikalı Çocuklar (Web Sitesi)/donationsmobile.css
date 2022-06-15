@@ -1,0 +1,25 @@
+.container .icons 
+{
+	margin-left: auto;
+}
+.container nav .btn1
+{
+	display: none;
+}
+.home .banner 
+{
+	margin-left:0;
+}
+#navbar ul
+{
+	font-size: 0.6rem;
+}
+.container .icons 
+{
+	padding-left: 0.5rem;
+}
+.home  img
+{
+	width: 22rem;
+	margin-top: 3.9rem;
+}
